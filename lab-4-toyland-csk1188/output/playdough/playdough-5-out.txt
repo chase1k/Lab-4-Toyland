@@ -1,0 +1,50 @@
+PLAYING(40): Toy{PC:100, N:Play-Doh, H:0, R:false, W:0.0}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+PLAYING(23): Toy{PC:101, N:Clay-Dough, H:0, R:false, W:0.0}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+PLAYING(38): Toy{PC:102, N:Crafty, H:0, R:false, W:0.0}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+PLAYING(34): Toy{PC:103, N:Play-Doh, H:0, R:false, W:0.0}, PlayDough{C:YELLOW}
+	Arts and crafting with YELLOW Play-Doh
+PLAYING(20): Toy{PC:104, N:Doh-Doh, H:0, R:false, W:0.0}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+PLAYING(45): Toy{PC:100, N:Play-Doh, H:40, R:false, W:2.0}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+PLAYING(25): Toy{PC:101, N:Clay-Dough, H:23, R:false, W:1.1500000000000001}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+PLAYING(28): Toy{PC:102, N:Crafty, H:38, R:false, W:1.9000000000000001}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+PLAYING(39): Toy{PC:103, N:Play-Doh, H:34, R:false, W:1.7000000000000002}, PlayDough{C:YELLOW}
+	Arts and crafting with YELLOW Play-Doh
+PLAYING(43): Toy{PC:104, N:Doh-Doh, H:20, R:false, W:1.0}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+PLAYING(22): Toy{PC:100, N:Play-Doh, H:85, R:false, W:4.25}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+RETIRED: Toy{PC:100, N:Play-Doh, H:107, R:true, W:5.35}, PlayDough{C:GREEN}
+PLAYING(22): Toy{PC:101, N:Clay-Dough, H:48, R:false, W:2.4000000000000004}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+PLAYING(26): Toy{PC:102, N:Crafty, H:66, R:false, W:3.3000000000000003}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+PLAYING(32): Toy{PC:103, N:Play-Doh, H:73, R:false, W:3.6500000000000004}, PlayDough{C:YELLOW}
+	Arts and crafting with YELLOW Play-Doh
+RETIRED: Toy{PC:103, N:Play-Doh, H:105, R:true, W:5.25}, PlayDough{C:YELLOW}
+PLAYING(46): Toy{PC:104, N:Doh-Doh, H:63, R:false, W:3.15}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+RETIRED: Toy{PC:104, N:Doh-Doh, H:109, R:true, W:5.45}, PlayDough{C:BROWN}
+PLAYING(22): Toy{PC:101, N:Clay-Dough, H:70, R:false, W:3.5000000000000004}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+PLAYING(26): Toy{PC:102, N:Crafty, H:92, R:false, W:4.6000000000000005}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+RETIRED: Toy{PC:102, N:Crafty, H:118, R:true, W:5.9}, PlayDough{C:PURPLE}
+PLAYING(20): Toy{PC:101, N:Clay-Dough, H:92, R:false, W:4.6000000000000005}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+RETIRED: Toy{PC:101, N:Clay-Dough, H:112, R:true, W:5.6000000000000005}, PlayDough{C:RED}
+Retired toys:
+	Toy{PC:100, N:Play-Doh, H:107, R:true, W:5.35}, PlayDough{C:GREEN}
+	Toy{PC:103, N:Play-Doh, H:105, R:true, W:5.25}, PlayDough{C:YELLOW}
+	Toy{PC:104, N:Doh-Doh, H:109, R:true, W:5.45}, PlayDough{C:BROWN}
+	Toy{PC:102, N:Crafty, H:118, R:true, W:5.9}, PlayDough{C:PURPLE}
+	Toy{PC:101, N:Clay-Dough, H:112, R:true, W:5.6000000000000005}, PlayDough{C:RED}
+Total toys: 5
+Total happiness: 551
+Average wear: 5.510000000000001

@@ -1,0 +1,25 @@
+PLAY_DOUGH Play-Doh GREEN
+RC_CAR BatMobile 10
+ROBOT Robbie 6 false
+DOLL GabbyGabby RED 6 Will_you_be_my_friend?
+ACTION_FIGURE HongKongPhooey 35 Number_one_super_guy!
+PLAY_DOUGH Doh-Doh BROWN
+ACTION_FIGURE Animal 27 BEAT_DRUMS!
+ACTION_FIGURE He-man 30 By_the_power_of_Grayskull!
+PLAY_DOUGH Play-Doh YELLOW
+DOLL ChattyCathy BLACK 7 Lets_play_house!
+ACTION_FIGURE Michelangelo 16 Cowabunga!
+RC_CAR Bumblebee 8
+DOLL Chucky ORANGE 6 I'm_your_friend_til_the_end!
+RC_CAR Ecto-1 12
+RC_CAR Delorean 20
+ROBOT R2D2 2 false
+RC_CAR Herbie 4
+PLAY_DOUGH Clay-Dough RED
+ROBOT Voltron 8 true
+PLAY_DOUGH Crafty PURPLE
+ROBOT Wall-E 4 false
+ROBOT IronGiant 12 true
+DOLL Jessicake BLUE 9 Lets'_go_shopping!
+DOLL Barbie YELLOW 18 We_can_do_anything!
+ACTION_FIGURE Scarlett 21 Yo_joe!

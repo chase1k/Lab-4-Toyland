@@ -1,0 +1,14 @@
+PLAYING(40): Toy{PC:400, N:Herbie, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:10}
+	Herbie races around at 10mph!
+PLAYING(23): Toy{PC:400, N:Herbie, H:40, R:false, W:10.0}, BatteryPowered{BL:56, NB:4}, RCCar{S:15}
+	Herbie races around at 15mph!
+PLAYING(38): Toy{PC:400, N:Herbie, H:63, R:false, W:25.0}, BatteryPowered{BL:29, NB:4}, RCCar{S:20}
+	Herbie races around at 20mph!
+	DEPLETED:Toy{PC:400, N:Herbie, H:63, R:false, W:25.0}, BatteryPowered{BL:0, NB:4}, RCCar{S:20}
+	RECHARGED:Toy{PC:400, N:Herbie, H:63, R:false, W:25.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:20}
+RETIRED: Toy{PC:400, N:Herbie, H:101, R:true, W:45.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:25}
+Retired toys:
+	Toy{PC:400, N:Herbie, H:101, R:true, W:45.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:25}
+Total toys: 1
+Total happiness: 101
+Average wear: 45.0

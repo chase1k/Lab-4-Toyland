@@ -1,0 +1,60 @@
+PLAYING(40): Toy{PC:500, N:Voltron, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:0}
+	Voltron is flying around with total distance: 1000
+PLAYING(23): Toy{PC:501, N:Wall-E, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:4}, Robot{F:false, D:0}
+	Wall-E is running around with total distance: 230
+PLAYING(38): Toy{PC:502, N:R2D2, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:2}, Robot{F:false, D:0}
+	R2D2 is running around with total distance: 380
+PLAYING(34): Toy{PC:503, N:IronGiant, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:12}, Robot{F:true, D:0}
+	IronGiant is flying around with total distance: 850
+PLAYING(20): Toy{PC:504, N:Robbie, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:6}, Robot{F:false, D:0}
+	Robbie is running around with total distance: 200
+PLAYING(45): Toy{PC:500, N:Voltron, H:40, R:false, W:25.0}, BatteryPowered{BL:52, NB:8}, Robot{F:true, D:1000}
+	Voltron is flying around with total distance: 2125
+	DEPLETED:Toy{PC:500, N:Voltron, H:40, R:false, W:50.0}, BatteryPowered{BL:0, NB:8}, Robot{F:true, D:2125}
+	RECHARGED:Toy{PC:500, N:Voltron, H:40, R:false, W:50.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:2125}
+PLAYING(25): Toy{PC:501, N:Wall-E, H:23, R:false, W:10.0}, BatteryPowered{BL:73, NB:4}, Robot{F:false, D:230}
+	Wall-E is running around with total distance: 480
+PLAYING(28): Toy{PC:502, N:R2D2, H:38, R:false, W:10.0}, BatteryPowered{BL:60, NB:2}, Robot{F:false, D:380}
+	R2D2 is running around with total distance: 660
+PLAYING(39): Toy{PC:503, N:IronGiant, H:34, R:false, W:25.0}, BatteryPowered{BL:54, NB:12}, Robot{F:true, D:850}
+	IronGiant is flying around with total distance: 1825
+PLAYING(43): Toy{PC:504, N:Robbie, H:20, R:false, W:10.0}, BatteryPowered{BL:74, NB:6}, Robot{F:false, D:200}
+	Robbie is running around with total distance: 630
+PLAYING(22): Toy{PC:500, N:Voltron, H:85, R:false, W:50.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:2125}
+	Voltron is flying around with total distance: 2675
+RETIRED: Toy{PC:500, N:Voltron, H:107, R:true, W:75.0}, BatteryPowered{BL:70, NB:8}, Robot{F:true, D:2675}
+PLAYING(22): Toy{PC:501, N:Wall-E, H:48, R:false, W:20.0}, BatteryPowered{BL:44, NB:4}, Robot{F:false, D:480}
+	Wall-E is running around with total distance: 700
+PLAYING(26): Toy{PC:502, N:R2D2, H:66, R:false, W:20.0}, BatteryPowered{BL:30, NB:2}, Robot{F:false, D:660}
+	R2D2 is running around with total distance: 920
+PLAYING(32): Toy{PC:503, N:IronGiant, H:73, R:false, W:50.0}, BatteryPowered{BL:3, NB:12}, Robot{F:true, D:1825}
+	IronGiant is flying around with total distance: 2625
+	DEPLETED:Toy{PC:503, N:IronGiant, H:73, R:false, W:75.0}, BatteryPowered{BL:0, NB:12}, Robot{F:true, D:2625}
+	RECHARGED:Toy{PC:503, N:IronGiant, H:73, R:false, W:75.0}, BatteryPowered{BL:100, NB:12}, Robot{F:true, D:2625}
+RETIRED: Toy{PC:503, N:IronGiant, H:105, R:true, W:75.0}, BatteryPowered{BL:100, NB:12}, Robot{F:true, D:2625}
+PLAYING(46): Toy{PC:504, N:Robbie, H:63, R:false, W:20.0}, BatteryPowered{BL:25, NB:6}, Robot{F:false, D:630}
+	Robbie is running around with total distance: 1090
+	DEPLETED:Toy{PC:504, N:Robbie, H:63, R:false, W:30.0}, BatteryPowered{BL:0, NB:6}, Robot{F:false, D:1090}
+	RECHARGED:Toy{PC:504, N:Robbie, H:63, R:false, W:30.0}, BatteryPowered{BL:100, NB:6}, Robot{F:false, D:1090}
+RETIRED: Toy{PC:504, N:Robbie, H:109, R:true, W:30.0}, BatteryPowered{BL:100, NB:6}, Robot{F:false, D:1090}
+PLAYING(22): Toy{PC:501, N:Wall-E, H:70, R:false, W:30.0}, BatteryPowered{BL:18, NB:4}, Robot{F:false, D:700}
+	Wall-E is running around with total distance: 920
+	DEPLETED:Toy{PC:501, N:Wall-E, H:70, R:false, W:40.0}, BatteryPowered{BL:0, NB:4}, Robot{F:false, D:920}
+	RECHARGED:Toy{PC:501, N:Wall-E, H:70, R:false, W:40.0}, BatteryPowered{BL:100, NB:4}, Robot{F:false, D:920}
+PLAYING(26): Toy{PC:502, N:R2D2, H:92, R:false, W:30.0}, BatteryPowered{BL:2, NB:2}, Robot{F:false, D:920}
+	R2D2 is running around with total distance: 1180
+	DEPLETED:Toy{PC:502, N:R2D2, H:92, R:false, W:40.0}, BatteryPowered{BL:0, NB:2}, Robot{F:false, D:1180}
+	RECHARGED:Toy{PC:502, N:R2D2, H:92, R:false, W:40.0}, BatteryPowered{BL:100, NB:2}, Robot{F:false, D:1180}
+RETIRED: Toy{PC:502, N:R2D2, H:118, R:true, W:40.0}, BatteryPowered{BL:100, NB:2}, Robot{F:false, D:1180}
+PLAYING(20): Toy{PC:501, N:Wall-E, H:92, R:false, W:40.0}, BatteryPowered{BL:100, NB:4}, Robot{F:false, D:920}
+	Wall-E is running around with total distance: 1120
+RETIRED: Toy{PC:501, N:Wall-E, H:112, R:true, W:50.0}, BatteryPowered{BL:76, NB:4}, Robot{F:false, D:1120}
+Retired toys:
+	Toy{PC:500, N:Voltron, H:107, R:true, W:75.0}, BatteryPowered{BL:70, NB:8}, Robot{F:true, D:2675}
+	Toy{PC:503, N:IronGiant, H:105, R:true, W:75.0}, BatteryPowered{BL:100, NB:12}, Robot{F:true, D:2625}
+	Toy{PC:504, N:Robbie, H:109, R:true, W:30.0}, BatteryPowered{BL:100, NB:6}, Robot{F:false, D:1090}
+	Toy{PC:502, N:R2D2, H:118, R:true, W:40.0}, BatteryPowered{BL:100, NB:2}, Robot{F:false, D:1180}
+	Toy{PC:501, N:Wall-E, H:112, R:true, W:50.0}, BatteryPowered{BL:76, NB:4}, Robot{F:false, D:1120}
+Total toys: 5
+Total happiness: 551
+Average wear: 54.0

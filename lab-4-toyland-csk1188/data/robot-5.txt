@@ -1,0 +1,5 @@
+ROBOT Voltron 8 true
+ROBOT Wall-E 4 false
+ROBOT R2D2 2 false
+ROBOT IronGiant 12 true
+ROBOT Robbie 6 false

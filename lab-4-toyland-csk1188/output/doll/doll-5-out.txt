@@ -1,0 +1,50 @@
+PLAYING(40): Toy{PC:200, N:GabbyGabby, H:0, R:false, W:0.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(23): Toy{PC:201, N:Barbie, H:0, R:false, W:0.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(38): Toy{PC:202, N:ChattyCathy, H:0, R:false, W:0.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+PLAYING(34): Toy{PC:203, N:Chucky, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+PLAYING(20): Toy{PC:204, N:Jessicake, H:0, R:false, W:0.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Jessicake brushes their BLUE hair and says, "Lets'_go_shopping!"
+PLAYING(45): Toy{PC:200, N:GabbyGabby, H:40, R:false, W:6.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(25): Toy{PC:201, N:Barbie, H:23, R:false, W:18.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(28): Toy{PC:202, N:ChattyCathy, H:38, R:false, W:7.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+PLAYING(39): Toy{PC:203, N:Chucky, H:34, R:false, W:6.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+PLAYING(43): Toy{PC:204, N:Jessicake, H:20, R:false, W:9.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Jessicake brushes their BLUE hair and says, "Lets'_go_shopping!"
+PLAYING(22): Toy{PC:200, N:GabbyGabby, H:85, R:false, W:12.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+RETIRED: Toy{PC:200, N:GabbyGabby, H:107, R:true, W:18.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+PLAYING(22): Toy{PC:201, N:Barbie, H:48, R:false, W:36.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(26): Toy{PC:202, N:ChattyCathy, H:66, R:false, W:14.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+PLAYING(32): Toy{PC:203, N:Chucky, H:73, R:false, W:12.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+RETIRED: Toy{PC:203, N:Chucky, H:105, R:true, W:18.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+PLAYING(46): Toy{PC:204, N:Jessicake, H:63, R:false, W:18.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Jessicake brushes their BLUE hair and says, "Lets'_go_shopping!"
+RETIRED: Toy{PC:204, N:Jessicake, H:109, R:true, W:27.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+PLAYING(22): Toy{PC:201, N:Barbie, H:70, R:false, W:54.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(26): Toy{PC:202, N:ChattyCathy, H:92, R:false, W:21.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+RETIRED: Toy{PC:202, N:ChattyCathy, H:118, R:true, W:28.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+PLAYING(20): Toy{PC:201, N:Barbie, H:92, R:false, W:72.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+RETIRED: Toy{PC:201, N:Barbie, H:112, R:true, W:90.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+Retired toys:
+	Toy{PC:200, N:GabbyGabby, H:107, R:true, W:18.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	Toy{PC:203, N:Chucky, H:105, R:true, W:18.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Toy{PC:204, N:Jessicake, H:109, R:true, W:27.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Toy{PC:202, N:ChattyCathy, H:118, R:true, W:28.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	Toy{PC:201, N:Barbie, H:112, R:true, W:90.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+Total toys: 5
+Total happiness: 551
+Average wear: 36.2

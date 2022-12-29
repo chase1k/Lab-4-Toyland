@@ -1,0 +1,5 @@
+ACTION_FIGURE He-man 30 By_the_power_of_Grayskull!
+ACTION_FIGURE Animal 27 BEAT_DRUMS!
+ACTION_FIGURE HongKongPhooey 35 Number_one_super_guy!
+ACTION_FIGURE Scarlett 21 Yo_joe!
+ACTION_FIGURE Michelangelo 16 Cowabunga!

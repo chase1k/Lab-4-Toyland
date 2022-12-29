@@ -1,0 +1,12 @@
+PLAYING(40): Toy{PC:100, N:Play-Doh, H:0, R:false, W:0.0}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+PLAYING(23): Toy{PC:100, N:Play-Doh, H:40, R:false, W:2.0}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+PLAYING(38): Toy{PC:100, N:Play-Doh, H:63, R:false, W:3.1500000000000004}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+RETIRED: Toy{PC:100, N:Play-Doh, H:101, R:true, W:5.050000000000001}, PlayDough{C:GREEN}
+Retired toys:
+	Toy{PC:100, N:Play-Doh, H:101, R:true, W:5.050000000000001}, PlayDough{C:GREEN}
+Total toys: 1
+Total happiness: 101
+Average wear: 5.050000000000001

@@ -1,0 +1,68 @@
+PLAYING(40): Toy{PC:300, N:He-man, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:1}
+	He-man kung foo chops with 40 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+PLAYING(23): Toy{PC:301, N:Animal, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:1}
+	Animal kung foo chops with 23 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(38): Toy{PC:302, N:HongKongPhooey, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:1}
+	HongKongPhooey kung foo chops with 38 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+PLAYING(34): Toy{PC:303, N:Scarlett, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:1}
+	Scarlett kung foo chops with 34 energy!
+	Scarlett brushes their ORANGE hair and says, "Yo_joe!"
+PLAYING(20): Toy{PC:304, N:Michelangelo, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:1}
+	Michelangelo kung foo chops with 20 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+PLAYING(45): Toy{PC:300, N:He-man, H:40, R:false, W:30.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:2}
+	He-man kung foo chops with 90 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+PLAYING(25): Toy{PC:301, N:Animal, H:23, R:false, W:27.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:2}
+	Animal kung foo chops with 50 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(28): Toy{PC:302, N:HongKongPhooey, H:38, R:false, W:35.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:2}
+	HongKongPhooey kung foo chops with 56 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+PLAYING(39): Toy{PC:303, N:Scarlett, H:34, R:false, W:21.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:2}
+	Scarlett kung foo chops with 78 energy!
+	Scarlett brushes their ORANGE hair and says, "Yo_joe!"
+PLAYING(43): Toy{PC:304, N:Michelangelo, H:20, R:false, W:16.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:2}
+	Michelangelo kung foo chops with 86 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+PLAYING(22): Toy{PC:300, N:He-man, H:85, R:false, W:60.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:3}
+	He-man kung foo chops with 66 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+RETIRED: Toy{PC:300, N:He-man, H:107, R:true, W:90.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:4}
+PLAYING(22): Toy{PC:301, N:Animal, H:48, R:false, W:54.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:3}
+	Animal kung foo chops with 66 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(26): Toy{PC:302, N:HongKongPhooey, H:66, R:false, W:70.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:3}
+	HongKongPhooey kung foo chops with 78 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+PLAYING(32): Toy{PC:303, N:Scarlett, H:73, R:false, W:42.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:3}
+	Scarlett kung foo chops with 96 energy!
+	Scarlett brushes their ORANGE hair and says, "Yo_joe!"
+RETIRED: Toy{PC:303, N:Scarlett, H:105, R:true, W:63.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:4}
+PLAYING(46): Toy{PC:304, N:Michelangelo, H:63, R:false, W:32.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:3}
+	Michelangelo kung foo chops with 138 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+RETIRED: Toy{PC:304, N:Michelangelo, H:109, R:true, W:48.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:4}
+PLAYING(22): Toy{PC:301, N:Animal, H:70, R:false, W:81.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:4}
+	Animal kung foo chops with 88 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(26): Toy{PC:302, N:HongKongPhooey, H:92, R:false, W:105.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:4}
+	HongKongPhooey kung foo chops with 104 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+RETIRED: Toy{PC:302, N:HongKongPhooey, H:118, R:true, W:140.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:5}
+PLAYING(20): Toy{PC:301, N:Animal, H:92, R:false, W:108.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:5}
+	Animal kung foo chops with 100 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+RETIRED: Toy{PC:301, N:Animal, H:112, R:true, W:135.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:6}
+Retired toys:
+	Toy{PC:300, N:He-man, H:107, R:true, W:90.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:4}
+	Toy{PC:303, N:Scarlett, H:105, R:true, W:63.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:4}
+	Toy{PC:304, N:Michelangelo, H:109, R:true, W:48.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:4}
+	Toy{PC:302, N:HongKongPhooey, H:118, R:true, W:140.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:5}
+	Toy{PC:301, N:Animal, H:112, R:true, W:135.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:6}
+Total toys: 5
+Total happiness: 551
+Average wear: 95.2

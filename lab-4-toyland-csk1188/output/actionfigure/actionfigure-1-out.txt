@@ -1,0 +1,15 @@
+PLAYING(40): Toy{PC:300, N:He-man, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:1}
+	He-man kung foo chops with 40 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+PLAYING(23): Toy{PC:300, N:He-man, H:40, R:false, W:30.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:2}
+	He-man kung foo chops with 46 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+PLAYING(38): Toy{PC:300, N:He-man, H:63, R:false, W:60.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:3}
+	He-man kung foo chops with 114 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+RETIRED: Toy{PC:300, N:He-man, H:101, R:true, W:90.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:4}
+Retired toys:
+	Toy{PC:300, N:He-man, H:101, R:true, W:90.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:4}
+Total toys: 1
+Total happiness: 101
+Average wear: 90.0

@@ -1,0 +1,12 @@
+PLAYING(40): Toy{PC:200, N:GabbyGabby, H:0, R:false, W:0.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(23): Toy{PC:200, N:GabbyGabby, H:40, R:false, W:6.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(38): Toy{PC:200, N:GabbyGabby, H:63, R:false, W:12.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+RETIRED: Toy{PC:200, N:GabbyGabby, H:101, R:true, W:18.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+Retired toys:
+	Toy{PC:200, N:GabbyGabby, H:101, R:true, W:18.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+Total toys: 1
+Total happiness: 101
+Average wear: 18.0

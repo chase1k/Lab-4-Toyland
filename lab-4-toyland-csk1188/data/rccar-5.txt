@@ -1,0 +1,5 @@
+RC_CAR Herbie 4
+RC_CAR BatMobile 10
+RC_CAR Bumblebee 8
+RC_CAR Ecto-1 12
+RC_CAR Delorean 20

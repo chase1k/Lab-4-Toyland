@@ -1,0 +1,60 @@
+PLAYING(40): Toy{PC:400, N:Herbie, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:10}
+	Herbie races around at 10mph!
+PLAYING(23): Toy{PC:401, N:BatMobile, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:10}, RCCar{S:10}
+	BatMobile races around at 10mph!
+PLAYING(38): Toy{PC:402, N:Bumblebee, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:8}, RCCar{S:10}
+	Bumblebee races around at 10mph!
+PLAYING(34): Toy{PC:403, N:Ecto-1, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:12}, RCCar{S:10}
+	Ecto-1 races around at 10mph!
+PLAYING(20): Toy{PC:404, N:Delorean, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:20}, RCCar{S:10}
+	Delorean races around at 10mph!
+PLAYING(45): Toy{PC:400, N:Herbie, H:40, R:false, W:10.0}, BatteryPowered{BL:56, NB:4}, RCCar{S:15}
+	Herbie races around at 15mph!
+PLAYING(25): Toy{PC:401, N:BatMobile, H:23, R:false, W:10.0}, BatteryPowered{BL:67, NB:10}, RCCar{S:15}
+	BatMobile races around at 15mph!
+PLAYING(28): Toy{PC:402, N:Bumblebee, H:38, R:false, W:10.0}, BatteryPowered{BL:54, NB:8}, RCCar{S:15}
+	Bumblebee races around at 15mph!
+PLAYING(39): Toy{PC:403, N:Ecto-1, H:34, R:false, W:10.0}, BatteryPowered{BL:54, NB:12}, RCCar{S:15}
+	Ecto-1 races around at 15mph!
+PLAYING(43): Toy{PC:404, N:Delorean, H:20, R:false, W:10.0}, BatteryPowered{BL:60, NB:20}, RCCar{S:15}
+	Delorean races around at 15mph!
+	DEPLETED:Toy{PC:404, N:Delorean, H:20, R:false, W:10.0}, BatteryPowered{BL:0, NB:20}, RCCar{S:15}
+	RECHARGED:Toy{PC:404, N:Delorean, H:20, R:false, W:10.0}, BatteryPowered{BL:100, NB:20}, RCCar{S:15}
+PLAYING(22): Toy{PC:400, N:Herbie, H:85, R:false, W:25.0}, BatteryPowered{BL:7, NB:4}, RCCar{S:20}
+	Herbie races around at 20mph!
+	DEPLETED:Toy{PC:400, N:Herbie, H:85, R:false, W:25.0}, BatteryPowered{BL:0, NB:4}, RCCar{S:20}
+	RECHARGED:Toy{PC:400, N:Herbie, H:85, R:false, W:25.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:20}
+RETIRED: Toy{PC:400, N:Herbie, H:107, R:true, W:45.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:25}
+PLAYING(22): Toy{PC:401, N:BatMobile, H:48, R:false, W:25.0}, BatteryPowered{BL:32, NB:10}, RCCar{S:20}
+	BatMobile races around at 20mph!
+PLAYING(26): Toy{PC:402, N:Bumblebee, H:66, R:false, W:25.0}, BatteryPowered{BL:18, NB:8}, RCCar{S:20}
+	Bumblebee races around at 20mph!
+	DEPLETED:Toy{PC:402, N:Bumblebee, H:66, R:false, W:25.0}, BatteryPowered{BL:0, NB:8}, RCCar{S:20}
+	RECHARGED:Toy{PC:402, N:Bumblebee, H:66, R:false, W:25.0}, BatteryPowered{BL:100, NB:8}, RCCar{S:20}
+PLAYING(32): Toy{PC:403, N:Ecto-1, H:73, R:false, W:25.0}, BatteryPowered{BL:3, NB:12}, RCCar{S:20}
+	Ecto-1 races around at 20mph!
+	DEPLETED:Toy{PC:403, N:Ecto-1, H:73, R:false, W:25.0}, BatteryPowered{BL:0, NB:12}, RCCar{S:20}
+	RECHARGED:Toy{PC:403, N:Ecto-1, H:73, R:false, W:25.0}, BatteryPowered{BL:100, NB:12}, RCCar{S:20}
+RETIRED: Toy{PC:403, N:Ecto-1, H:105, R:true, W:45.0}, BatteryPowered{BL:100, NB:12}, RCCar{S:25}
+PLAYING(46): Toy{PC:404, N:Delorean, H:63, R:false, W:25.0}, BatteryPowered{BL:100, NB:20}, RCCar{S:20}
+	Delorean races around at 20mph!
+RETIRED: Toy{PC:404, N:Delorean, H:109, R:true, W:45.0}, BatteryPowered{BL:34, NB:20}, RCCar{S:25}
+PLAYING(22): Toy{PC:401, N:BatMobile, H:70, R:false, W:45.0}, BatteryPowered{BL:0, NB:10}, RCCar{S:25}
+	BatMobile races around at 25mph!
+	DEPLETED:Toy{PC:401, N:BatMobile, H:70, R:false, W:45.0}, BatteryPowered{BL:0, NB:10}, RCCar{S:25}
+	RECHARGED:Toy{PC:401, N:BatMobile, H:70, R:false, W:45.0}, BatteryPowered{BL:100, NB:10}, RCCar{S:25}
+PLAYING(26): Toy{PC:402, N:Bumblebee, H:92, R:false, W:45.0}, BatteryPowered{BL:100, NB:8}, RCCar{S:25}
+	Bumblebee races around at 25mph!
+RETIRED: Toy{PC:402, N:Bumblebee, H:118, R:true, W:70.0}, BatteryPowered{BL:66, NB:8}, RCCar{S:30}
+PLAYING(20): Toy{PC:401, N:BatMobile, H:92, R:false, W:70.0}, BatteryPowered{BL:100, NB:10}, RCCar{S:30}
+	BatMobile races around at 30mph!
+RETIRED: Toy{PC:401, N:BatMobile, H:112, R:true, W:100.0}, BatteryPowered{BL:70, NB:10}, RCCar{S:35}
+Retired toys:
+	Toy{PC:400, N:Herbie, H:107, R:true, W:45.0}, BatteryPowered{BL:100, NB:4}, RCCar{S:25}
+	Toy{PC:403, N:Ecto-1, H:105, R:true, W:45.0}, BatteryPowered{BL:100, NB:12}, RCCar{S:25}
+	Toy{PC:404, N:Delorean, H:109, R:true, W:45.0}, BatteryPowered{BL:34, NB:20}, RCCar{S:25}
+	Toy{PC:402, N:Bumblebee, H:118, R:true, W:70.0}, BatteryPowered{BL:66, NB:8}, RCCar{S:30}
+	Toy{PC:401, N:BatMobile, H:112, R:true, W:100.0}, BatteryPowered{BL:70, NB:10}, RCCar{S:35}
+Total toys: 5
+Total happiness: 551
+Average wear: 61.0

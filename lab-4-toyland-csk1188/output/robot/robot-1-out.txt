@@ -1,0 +1,14 @@
+PLAYING(40): Toy{PC:500, N:Voltron, H:0, R:false, W:0.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:0}
+	Voltron is flying around with total distance: 1000
+PLAYING(23): Toy{PC:500, N:Voltron, H:40, R:false, W:25.0}, BatteryPowered{BL:52, NB:8}, Robot{F:true, D:1000}
+	Voltron is flying around with total distance: 1575
+PLAYING(38): Toy{PC:500, N:Voltron, H:63, R:false, W:50.0}, BatteryPowered{BL:21, NB:8}, Robot{F:true, D:1575}
+	Voltron is flying around with total distance: 2525
+	DEPLETED:Toy{PC:500, N:Voltron, H:63, R:false, W:75.0}, BatteryPowered{BL:0, NB:8}, Robot{F:true, D:2525}
+	RECHARGED:Toy{PC:500, N:Voltron, H:63, R:false, W:75.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:2525}
+RETIRED: Toy{PC:500, N:Voltron, H:101, R:true, W:75.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:2525}
+Retired toys:
+	Toy{PC:500, N:Voltron, H:101, R:true, W:75.0}, BatteryPowered{BL:100, NB:8}, Robot{F:true, D:2525}
+Total toys: 1
+Total happiness: 101
+Average wear: 75.0
